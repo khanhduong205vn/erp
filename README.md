@@ -1,4 +1,4 @@
-# ERP 1TR
+# ERP
 
 ## Mô tả
 Đây là dự án ERP gồm hai phần chính:
